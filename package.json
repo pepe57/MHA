@@ -98,6 +98,7 @@
   },
   "overrides": {
     "tmp": "^0.2.5",
+    "@babel/core": "^7.29.6",
     "js-yaml": "^4.3.0"
   },
   "-vs-binding": {
